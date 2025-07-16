@@ -1,0 +1,1034 @@
+[
+  {
+    "cnsc_term": "ANS",
+    "nrc_term": "ANS",
+    "similarity": 1.0,
+    "cnsc_def": "American Nuclear Society",
+    "nrc_def": "American Nuclear Society",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "CHF",
+    "nrc_term": "CHF",
+    "similarity": 1.0,
+    "cnsc_def": "critical heat flux",
+    "nrc_def": "critical heat flux",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "CRDM",
+    "nrc_term": "CRDM",
+    "similarity": 1.0,
+    "cnsc_def": "control rod drive mechanism",
+    "nrc_def": "control rod drive mechanism",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "EQ",
+    "nrc_term": "EQ",
+    "similarity": 1.0,
+    "cnsc_def": "environmental qualification",
+    "nrc_def": "environmental qualification",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "HAC",
+    "nrc_term": "HAC",
+    "similarity": 1.0,
+    "cnsc_def": "hypothetical accident conditions",
+    "nrc_def": "hypothetical accident conditions",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ICRU",
+    "nrc_term": "ICRU",
+    "similarity": 1.0,
+    "cnsc_def": "International Commission on Radiation Units and Measurements",
+    "nrc_def": "International Commission on Radiation Units and Measurements",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "IPPAS",
+    "nrc_term": "IPPAS",
+    "similarity": 1.0,
+    "cnsc_def": "International Physical Protection Advisory Service",
+    "nrc_def": "International Physical Protection Advisory Service",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "IRRS",
+    "nrc_term": "IRRS",
+    "similarity": 1.0,
+    "cnsc_def": "Integrated Regulatory Review Service",
+    "nrc_def": "Integrated Regulatory Review Service",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "PPE",
+    "nrc_term": "PPE",
+    "similarity": 1.0,
+    "cnsc_def": "personal protective equipment",
+    "nrc_def": "personal protective equipment",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "LWR",
+    "nrc_term": "LWR",
+    "similarity": 0.995,
+    "cnsc_def": "light\u2011water reactor",
+    "nrc_def": "light-water reactor",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "PWR",
+    "nrc_term": "PWR",
+    "similarity": 0.9919,
+    "cnsc_def": "pressurized water reactor",
+    "nrc_def": "pressurized-water reactor",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "atom",
+    "nrc_term": "Atom",
+    "similarity": 0.982,
+    "cnsc_def": "The smallest particle of an element that cannot be divided or broken up by chemical means. The atom consists of a central core (or nucleus ), containing protons and neutrons , with electrons revolving in orbits in the region surrounding the nucleus.",
+    "nrc_def": "The smallest particle of an element that cannot be divided or broken up by chemical means. It consists of a central core (or nucleus ), containing protons and neutrons , with electrons revolving in orbits in the region surrounding the nucleus.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "SI",
+    "nrc_term": "SI",
+    "similarity": 0.9639,
+    "cnsc_def": "International System of Units (Syst\u00e8me international d'unit\u00e9s)",
+    "nrc_def": "Syst\u00e8me International (d'unit\u00e9s) or International System of Units",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "I&C",
+    "nrc_term": "I&C",
+    "similarity": 0.9616,
+    "cnsc_def": "instrumentation and control",
+    "nrc_def": "instrumentation and controls",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "alpha particle",
+    "nrc_term": "Alpha particle",
+    "similarity": 0.9587,
+    "cnsc_def": "A positively charged particle ejected spontaneously from the nuclei of some radioactive elements . Note: An alpha particle is identical to a helium nucleus, which has a mass number of 4 and an electrostatic charge of +2. An alpha particle has low penetrating power and a short range (a few centimetres in air). Alpha particles will generally fail to penetrate the dead layers of cells covering the skin and can be easily stopped by a sheet of paper. However, alpha-emitting isotope s are harmful if ingested.",
+    "nrc_def": "A positively charged particle ejected spontaneously from the nuclei of some radioactive elements . It is identical to a helium nucleus that has a mass number of 4 and an electrostatic charge of +2. It has low penetrating power and a short range (a few centimeters in air). The most energetic alpha particle will generally fail to penetrate the dead layers of cells covering the skin, and can be easily stopped by a sheet of paper. Alpha particles are hazardous when an alpha-emitting isotope is inside the body. For additional detail, see Radiation Basics .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "CSI",
+    "nrc_term": "CSI",
+    "similarity": 0.9533,
+    "cnsc_def": "See criticality safety index .",
+    "nrc_def": "criticality safety index",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ICRP",
+    "nrc_term": "ICRP",
+    "similarity": 0.9463,
+    "cnsc_def": "See International Commission on Radiological Protection .",
+    "nrc_def": "International Commission on Radiological Protection",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "DBA",
+    "nrc_term": "DBA",
+    "similarity": 0.9255,
+    "cnsc_def": "See design-basis accident .",
+    "nrc_def": "design-basis accident",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "DCF",
+    "nrc_term": "DCF",
+    "similarity": 0.9214,
+    "cnsc_def": "See dose conversion factor .",
+    "nrc_def": "dose conversion factor",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "TLD",
+    "nrc_term": "TLD",
+    "similarity": 0.9189,
+    "cnsc_def": "See thermoluminescent dosimeter .",
+    "nrc_def": "thermoluminescent dosimeter",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "LEU",
+    "nrc_term": "LEU",
+    "similarity": 0.908,
+    "cnsc_def": "See low-enriched uranium .",
+    "nrc_def": "low-enriched uranium",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "HEU",
+    "nrc_term": "HEU",
+    "similarity": 0.9037,
+    "cnsc_def": "See high-enriched uranium .",
+    "nrc_def": "high-enriched uranium",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "SNF",
+    "nrc_term": "SNF",
+    "similarity": 0.9028,
+    "cnsc_def": "spent nuclear fuel; see used nuclear fuel",
+    "nrc_def": "spent nuclear fuel",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "IAEA",
+    "nrc_term": "IAEA",
+    "similarity": 0.9021,
+    "cnsc_def": "See International Atomic Energy Agency .",
+    "nrc_def": "International Atomic Energy Agency",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "LLW",
+    "nrc_term": "LLW",
+    "similarity": 0.9021,
+    "cnsc_def": "See low-level waste .",
+    "nrc_def": "low-level waste",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "CCF",
+    "nrc_term": "CCF",
+    "similarity": 0.9012,
+    "cnsc_def": "See common-cause failure .",
+    "nrc_def": "common-cause failure",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "AOO",
+    "nrc_term": "AOO",
+    "similarity": 0.9004,
+    "cnsc_def": "See anticipated operational occurrence .",
+    "nrc_def": "anticipated operational occurrence",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "EIS",
+    "nrc_term": "EIS",
+    "similarity": 0.8994,
+    "cnsc_def": "See environmental impact statement .",
+    "nrc_def": "environmental impact statement",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ALI",
+    "nrc_term": "ALI",
+    "similarity": 0.8979,
+    "cnsc_def": "See annual limit on intake .",
+    "nrc_def": "annual limit on intake",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "LOCA",
+    "nrc_term": "LOCA",
+    "similarity": 0.8968,
+    "cnsc_def": "See loss-of-coolant accident .",
+    "nrc_def": "loss-of-coolant accident",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "fertile material",
+    "nrc_term": "Fertile material",
+    "similarity": 0.89,
+    "cnsc_def": "Nuclear material that can be converted into a special fissionable material through the capture of one neutron per nucleus. There are two naturally occurring fertile materials: uranium-238 and thorium-232. Through the capture of neutrons followed by two beta decays, these fertile materials are converted to fissionable plutonium-239 and uranium-233, respectively.",
+    "nrc_def": "A material, which is not itself fissile (fissionable by thermal neutrons), that can be converted into a fissile material by irradiation in a reactor . There are two basic fertile materials: uranium-238 and thorium-232. When these fertile materials capture neutrons , they are converted into fissile plutonium-239 and uranium-233, respectively.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "DAC",
+    "nrc_term": "DAC",
+    "similarity": 0.8861,
+    "cnsc_def": "See derived air concentration .",
+    "nrc_def": "derived air concentration",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ECCS",
+    "nrc_term": "ECCS",
+    "similarity": 0.8837,
+    "cnsc_def": "See emergency core cooling system .",
+    "nrc_def": "emergency core cooling system",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "MSDS",
+    "nrc_term": "MSDS",
+    "similarity": 0.8785,
+    "cnsc_def": "material safety data sheet (associated with Workplace Hazardous Materials Information System)",
+    "nrc_def": "material safety data sheet",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "beta particle",
+    "nrc_term": "Beta particle",
+    "similarity": 0.8781,
+    "cnsc_def": "A charged particle that is emitted from the nucleus of a radioactive element during radioactive decay of an unstable atom . Large amounts of beta radiation may cause skin burns, and beta emitters are harmful if they enter the body. Beta particles may be stopped by thin sheets of metal or plastic.",
+    "nrc_def": "A charged particle (with a mass equal to 1/1837 that of a proton ) that is emitted from the nucleus of a radioactive element during radioactive decay (or disintegration) of an unstable atom . A negatively charged beta particle is identical to an electron , while a positively charged beta particle is called a positron . Large amounts of beta radiation may cause skin burns, and beta emitters are harmful if they enter the body. Beta particles may be stopped by thin sheets of metal or plastic. For additional detail, see Radiation Basics .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "restricted area",
+    "nrc_term": "Restricted area",
+    "similarity": 0.8652,
+    "cnsc_def": "An area to which public access is controlled in order to protect individuals from exposure to radiation and radioactive materials. Also called controlled area.",
+    "nrc_def": "Any area to which access is controlled for the protection of individuals from exposure to radiation and radioactive materials.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "natural uranium",
+    "nrc_term": "Natural uranium",
+    "similarity": 0.8584,
+    "cnsc_def": "Uranium that contains uranium\u2011235 in a concentration that is normally found in nature. (Source: Nuclear Substances and Radiation Devices Regulations ) Note 1: With respect to nuclear criticality safety, this concentration of this isotope is equal to or less than 0.71 percent by weight. Note 2: With respect to packaging and transport of nuclear substances, natural uranium means uranium (which may be chemically separated) containing the naturally occurring distribution of uranium isotopes (approximately 99.28 percent uranium\u2011238, and 0.72 percent uranium\u2011235 by mass). A very small mass percentage of uranium\u2011234 is present.",
+    "nrc_def": "Uranium containing the relative concentrations of isotopes found in nature: 0.7 percent uranium-235, 99.3 percent uranium-238, and a trace amount of uranium-234 by mass. In terms of radioactivity, however, natural uranium contains about 2.2 percent uranium-235, 48.6 percent uranium-238, and 49.2 percent uranium-234. Natural uranium can be used as fuel in nuclear reactors or as feedstock for uranium enrichment facilities.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "NPP",
+    "nrc_term": "NPP",
+    "similarity": 0.857,
+    "cnsc_def": "See nuclear power plant .",
+    "nrc_def": "nuclear power plant",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "BWR",
+    "nrc_term": "BWR",
+    "similarity": 0.8562,
+    "cnsc_def": "See boiling water reactor .",
+    "nrc_def": "boiling-water reactor",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "FY",
+    "nrc_term": "FY",
+    "similarity": 0.8495,
+    "cnsc_def": "See fiscal year .",
+    "nrc_def": "fiscal year",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "PRA",
+    "nrc_term": "PRA",
+    "similarity": 0.844,
+    "cnsc_def": "probabilistic risk analysis or probability risk assessment; see probabilistic safety assessment",
+    "nrc_def": "probabilistic risk assessment",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ERO",
+    "nrc_term": "ERO",
+    "similarity": 0.8403,
+    "cnsc_def": "See emergency response organization .",
+    "nrc_def": "emergency response organization",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "depleted uranium",
+    "nrc_term": "Depleted uranium",
+    "similarity": 0.8339,
+    "cnsc_def": "Uranium that contains uranium\u2011235 in a concentration that is less than that normally found in nature. (Source: Nuclear Substances and Radiation Devices Regulations ) Note: In the context of packaging and transport of nuclear substances, depleted uranium means uranium containing a lesser mass percentage of uranium\u2011235 than natural uranium.",
+    "nrc_def": "Uranium with a percentage of uranium-235 lower than the 0.7 percent (by mass) contained in natural uranium. Depleted uranium is the byproduct of the uranium enrichment process. Depleted uranium can be blended with highly enriched uranium, such as that from weapons, to make reactor fuel.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "INES",
+    "nrc_term": "INES",
+    "similarity": 0.8334,
+    "cnsc_def": "See International Nuclear and Radiological Event Scale .",
+    "nrc_def": "International Nuclear Event Scale",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "NRC",
+    "nrc_term": "NRC",
+    "similarity": 0.8333,
+    "cnsc_def": "National Research Council or see U.S. Nuclear Regulatory Commission .",
+    "nrc_def": "U.S. Nuclear Regulatory Commission",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "radioactive decay",
+    "nrc_term": "Radioactive decay",
+    "similarity": 0.8269,
+    "cnsc_def": "The spontaneous transformation of one radioisotope into one or more different isotopes (known as decay products or daughter products), accompanied by a decrease in radioactivity (compared to the parent material). This transformation takes place over a defined period of time (known as a half-life), as a result of electron capture; fission; or the emission of alpha particles, beta particles, or photons (gamma radiation or X\u2011rays) from the nucleus of an unstable atom. Each isotope in the sequence (known as a decay chain) decays to the next until it forms a stable, less energetic end product. In addition, radioactive decay may refer to gamma\u2011ray and conversion electron emission, which only reduces the excitation energy of the nucleus.",
+    "nrc_def": "The spontaneous transformation of one radionuclide into one or more decay products (also known as \u201cdaughters\u201d). This transformation is commonly characterized by the emission of an alpha particle, a beta particle, or gamma ray photon(s) from the nucleus of the\u00a0 radionuclide. The rate at which these transformations take place, when a sufficient quantity of the same radionuclide is present, depends on the half-life of the radionuclide. Some radionuclides (e.g., hydrogen-3, also known as \u201ctritium\u201d) decay to stable daughters that are not radioactive. However, other radionuclides (e.g., uranium-238) decay to radioactive daughters (e.g., thorium-234) and may be part of a radioactive decay chain consisting of two or more radionuclides linked in a cascading series of radioactive decay.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ASME",
+    "nrc_term": "ASME",
+    "similarity": 0.8164,
+    "cnsc_def": "A professional association, founded as the American Society of Mechanical Engineers.",
+    "nrc_def": "American Society of Mechanical Engineers",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "radiosensitivity",
+    "nrc_term": "Radiosensitivity",
+    "similarity": 0.7977,
+    "cnsc_def": "The relative susceptibility to damage from radiation for cells, tissues, organs and organisms. Not to be confused with radiosusceptibility, which is the relative susceptibility to develop genomic instability and cancer.",
+    "nrc_def": "The relative susceptibility of cells, tissues, organs, organisms, or other substances to the injurious action of radiation.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "dosimeter",
+    "nrc_term": "Dosimeter",
+    "similarity": 0.7921,
+    "cnsc_def": "A device for measuring a dose of radiation that is worn or carried by an individual. (Sources: Nuclear Substances and Radiation Devices Regulations ; Radiation Protection Regulations ) Note: Among common types are thermoluminescent and optically stimulated luminescent dosimeters.",
+    "nrc_def": "A small portable instrument (such as a film badge , thermoluminescent dosimeter , or pocket dosimeter ) used to measure and record the total accumulated personal dose of ionizing radiation . For additional information, see Detecting Radiation .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "proton",
+    "nrc_term": "Proton",
+    "similarity": 0.7889,
+    "cnsc_def": "A stable subatomic particle that is found in the nucleus of an atom and has a positive electric charge.",
+    "nrc_def": "An elementary nuclear particle with a positive electric charge located in the nucleus of an atom.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "radionuclide",
+    "nrc_term": "Radionuclide",
+    "similarity": 0.7863,
+    "cnsc_def": "A material with an unstable atomic nucleus that spontaneously decays or disintegrates, producing radiation. Nuclei are distinguished by their mass and atomic number.",
+    "nrc_def": "An unstable isotope of an element that decays or disintegrates spontaneously, thereby emitting radiation . Approximately 5,000 natural and artificial radioisotopes have been identified.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "sealed source",
+    "nrc_term": "Sealed source",
+    "similarity": 0.7717,
+    "cnsc_def": "A radioactive nuclear substance in a sealed capsule or in a cover to which the substance is bonded, where the capsule or cover is strong enough to prevent contact with or the dispersion of the substance under the conditions for which the capsule or cover is designed. (Sources: Class I Nuclear Facilities Regulations ; Class II Nuclear Facilities and Prescribed Equipment Regulations ; Nuclear Substances and Radiation Devices Regulations )",
+    "nrc_def": "Any radioactive material or byproduct encased in a capsule designed to prevent leakage or escape of the material.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "RSO",
+    "nrc_term": "RSO",
+    "similarity": 0.7712,
+    "cnsc_def": "See radiation safety officer .",
+    "nrc_def": "radiation safety officer",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "operational mode",
+    "nrc_term": "Operational mode",
+    "similarity": 0.7686,
+    "cnsc_def": "In a reactor facility, a mode of operation that may include start\u2011up, operation at various power levels, shutting down, shutdown, maintenance, testing and refuelling.",
+    "nrc_def": "In a nuclear power reactor, an operational mode corresponds to any one inclusive combination of core reactivity condition, power level, and average reactor coolant temperature.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "irradiation",
+    "nrc_term": "Irradiation",
+    "similarity": 0.7625,
+    "cnsc_def": "Exposure to radiation. Note: \"exposure\" is commonly used to describe radiation doses to people while \"irradiation\" is more often used for radiation doses to food or industrial objects.",
+    "nrc_def": "Exposure to ionizing radiation. Irradiation may be intentional, such as in cancer treatments or in sterilizing medical instruments. Irradiation may also be accidental, such as from exposure to an unshielded source. Irradiation does not usually result in radioactive contamination, but damage can occur, depending on the dose received.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "safeguards",
+    "nrc_term": "Safeguards",
+    "similarity": 0.7447,
+    "cnsc_def": "A verification system that is established in accordance with a safeguards agreement. (Sources: General Nuclear Safety and Control Regulations ; Class I Nuclear Facilities Regulations )",
+    "nrc_def": "The use of material control and accounting programs to verify that all special nuclear material is properly controlled and accounted for, as well as the physical protection (or physical security) equipment and security forces. As used by the International Atomic Energy Agency , this term also means verifying that the peaceful use commitments made in binding nonproliferation agreements, both bilateral and multilateral, are honored. For additional detail, see Nuclear Security and Safeguards .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "decommissioning",
+    "nrc_term": "Decommissioning",
+    "similarity": 0.7372,
+    "cnsc_def": "Administrative and technical actions taken to allow the removal of some or all of the regulatory controls from a facility, location or site where nuclear substances are managed, used, possessed or stored. Note : Decommissioning actions are the procedures, processes and work activities (such as storage with surveillance, decontamination, dismantling or clean up) that are taken to retire a facility, location or site from service with due regard for the health and safety of people and the environment. For disposal facilities, with the exception of ancillary facilities, the term \"closure\" instead of \"decommissioning\" is used. See also clean-up activities ; decontamination ; dismantle ; storage with surveillance .",
+    "nrc_def": "The process of safely closing a nuclear power plant (or other facility where nuclear materials are handled) to retire it from service after its useful life has ended. This process primarily involves decontaminating the facility to reduce residual radioactivity and then releasing the property for unrestricted or (under certain conditions) restricted use. This often includes dismantling the facility or dedicating it to other purposes. See SAFSTOR. For additional information, see Decommissioning of Nuclear Facilities and Find Sites Undergoing Decommissioning .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "steam generator",
+    "nrc_term": "Steam generator",
+    "similarity": 0.7357,
+    "cnsc_def": "A heat exchanger that transfers heat from primary coolant in order to boil water. Also called boiler. Note: The water boils, producing steam to drive a turbine. The steam generator tubes separate the reactor coolant from the rest of the power-generating system.",
+    "nrc_def": "The heat exchanger used in some reactor designs to transfer heat from the primary (reactor coolant) system to the secondary (steam) system. This design permits heat exchange with little or no contamination of the secondary system equipment.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "gamma radiation",
+    "nrc_term": "Gamma radiation",
+    "similarity": 0.7352,
+    "cnsc_def": "Penetrating electromagnetic radiation emitted from an atom's nucleus. Also called gamma rays.",
+    "nrc_def": "High-energy, short-wavelength, electromagnetic radiation emitted from the nucleus of an atom . Gamma radiation frequently accompanies emissions of alpha particles and beta particles , and always accompanies fission . Gamma rays are similar to x-rays , but are very penetrating and are best stopped or shielded by dense materials, such as lead or depleted uranium .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ANSI",
+    "nrc_term": "ANSI",
+    "similarity": 0.7224,
+    "cnsc_def": "American Nuclear Standards Institute",
+    "nrc_def": "American National Standards Institute",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "isotope",
+    "nrc_term": "Isotope",
+    "similarity": 0.7179,
+    "cnsc_def": "A variation in the form of atoms, of the same chemical element, which are distinguished by the number of neutrons in the nucleus. The number of protons remains the same, but the number of neutrons differs. For example, uranium has 16 different isotopes.",
+    "nrc_def": "Two or more forms (or atomic configurations) of a given element that have identical atomic numbers (the same number of protons in their nuclei ) and the same or very similar chemical properties but different atomic masses (different numbers of neutrons in their nuclei) and distinct physical properties. Thus, carbon-12, carbon-13, and carbon-14 are isotopes of the element carbon, and the numbers denote the approximate atomic masses. Among their distinct physical properties, some isotopes (known as radioisotopes ) are radioactive because their nuclei emit radiation as they strive toward a more stable nuclear configuration. For example, carbon-12 and carbon-13 are stable, but carbon-14 is unstable and radioactive.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "extremities",
+    "nrc_term": "Extremities",
+    "similarity": 0.7117,
+    "cnsc_def": "Each part of the human body that is furthest from the head and torso, and that shares similar sensitivities to ionizing radiation. The extremities are further defined as each part of the anatomy from and including the elbows to the tips of the fingers (the upper extremities) and from and including the knees to the tips of the toes (the lower extremities).",
+    "nrc_def": "The hands, forearms, elbows, feet, knees, leg below the knees, and ankles. Permissible radiation exposures in these regions are generally greater than those for whole body exposure because the extremities contain fewer blood-forming organs and have smaller volumes for energy absorption. (See 10 CFR 20.1003 .)",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "source material",
+    "nrc_term": "Source material",
+    "similarity": 0.7083,
+    "cnsc_def": "The following source materials in any form, including ore, concentrate, compound, metal or alloy, or incorporated in any substance, other than medicinals, and in which the concentration of source material is greater than 0.05 weight %: uranium that contains the mixture of isotopes that occurs in nature; uranium that is depleted in the isotope 235; and thorium. Note: [The list above] does not include: source material occurring as contaminants in laundry, packaging, shielding or equipment; or depleted uranium used as shielding for Class II prescribed equipment, within the meaning of section 1 of the Class II Nuclear Facilities and Prescribed Equipment Regulations , for radiation devices or for transport packaging. (Source: Nuclear Non-proliferation Import and Export Control Regulations (Schedule A)) Note: Ore concentrate is considered to be source material. With respect to nuclear material accounting, the term \"source material\" is not interpreted as applying to ore or ore residue.",
+    "nrc_def": "Uranium or thorium, or any combination thereof, in any physical or chemical form, or ores that contain, by weight, one-twentieth of one percent (0.05 percent) or more of (1) uranium, (2) thorium, or (3) any combination thereof. Source material does not include special nuclear material . For additional detail, see Source Material .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ionizing radiation",
+    "nrc_term": "Ionizing radiation",
+    "similarity": 0.7,
+    "cnsc_def": "For the purposes of radiation protection, radiation capable of producing ion pairs in biological material(s). Note: Ionizing radiation is constantly present in the environment and includes the radiation that comes from both natural and artificial sources, such as cosmic rays, terrestrial sources (radioactive elements in the soil), ambient air (radon), and internal sources (food and drink).",
+    "nrc_def": "A form of radiation, which includes alpha particles , beta particles , gamma rays , x-rays , neutrons , high-speed electrons , high-speed protons , and other particles capable of producing ions . Compared to non-ionizing radiation, such as radio- or microwaves, or visible, infrared, or ultraviolet light, ionizing radiation is considerably more energetic. When ionizing radiation passes through material such as air, water, or living tissue, it deposits enough energy to produce ions by breaking molecular bonds and displace (or remove) electrons from atoms or molecules. This electron displacement may lead to changes in living cells. Given this ability, ionizing radiation has a number of beneficial uses, including treating cancer or sterilizing medical equipment. However, ionizing radiation is potentially harmful if not used correctly, and high doses may result in severe skin or tissue damage. It is for this reason that the NRC strictly regulates commercial and institutional uses of the various types of ionizing radiation. Radiation, as used in 10 CFR Part 20 , does not include non-ionizing radiation (see also 10 CFR 20.1003 ).",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "transuranic element",
+    "nrc_term": "Transuranic element",
+    "similarity": 0.6941,
+    "cnsc_def": "Any chemical element that has an atomic number greater than 92 (the atomic number of uranium).",
+    "nrc_def": "An artificially made, radioactive element that has an atomic number higher than uranium in the periodic table of elements such as neptunium, plutonium, americium, and others.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "moderator",
+    "nrc_term": "Moderator",
+    "similarity": 0.6915,
+    "cnsc_def": "A material used to slow down or \"moderate\" neutrons produced by the nuclear fuel. The moderator reduces neutron energy by scattering without appreciable capture. Materials of prime concern are those containing light nuclei with large scattering cross-sections and relatively low absorption cross-sections.",
+    "nrc_def": "A material, such as ordinary water, heavy water, or graphite, that is used in a reactor to slow down high-velocity neutrons, thus increasing the likelihood of fission.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "fissionable material",
+    "nrc_term": "Fissionable material",
+    "similarity": 0.6782,
+    "cnsc_def": "Any material that can undergo nuclear fission.",
+    "nrc_def": "A nuclide that is capable of undergoing fission after capturing either high-energy (fast) neutrons or low-energy thermal (slow) neutrons . Although formerly used as a synonym for fissile material , fissionable materials also include those (such as uranium-238) that can be fissioned only with high-energy neutrons. As a result, fissile materials (such as uranium-235) are a subset of fissionable materials. Uranium-235 fissions with low-energy thermal neutrons because the binding energy resulting from the absorption of a neutron is greater than the critical energy required for fission; therefore uranium-235 is a fissile material. By contrast, the binding energy released by uranium-238 absorbing a thermal neutron is less than the critical energy, so the neutron must possess additional energy for fission to be possible. Consequently, uranium-238 is a fissionable material.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "neutron",
+    "nrc_term": "Neutron",
+    "similarity": 0.6738,
+    "cnsc_def": "A subatomic particle found in the nucleus of atoms. A neutron has a mass of about 1.6 x 10 \u201127 kg and no electric charge.",
+    "nrc_def": "An uncharged elementary particle, with a mass slightly greater than that of the proton, found in the nucleus of every atom heavier than hydrogen.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "deterministic effect",
+    "nrc_term": "Deterministic effect",
+    "similarity": 0.6651,
+    "cnsc_def": "A health effect of radiation for which a threshold level of dose generally exists above which the severity of the effect is greater for a higher dose.",
+    "nrc_def": "The health effects of radiation, the severity of which varies with the dose and for which a threshold is believed to exist. Radiation-induced cataract formation is an example of a deterministic effect (also called a non-stochastic effect) (see 10 CFR 20.1003 ).",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "bioassay",
+    "nrc_term": "Bioassay",
+    "similarity": 0.662,
+    "cnsc_def": "The study of all living organisms to measure the effect of a substance, factor or condition by comparing before-and-after exposure or other data. Note: Specific to radiation exposure in humans, bioassay is any procedure used to determine the nature, activity, location or retention of radionuclides in a body by direct ( in vivo ) measurement or by indirect ( in vitro ) analysis of material excreted or otherwise removed from a body. In vivo bioassay may be referred to as direct bioassay; in vitro bioassay may be referred to as indirect bioassay.",
+    "nrc_def": "The determination of kinds, quantities, or concentrations and, in some cases, locations of radioactive material in the human body, whether by direct measurement (in vivo counting) or by analysis and evaluation of materials excreted or removed (in vitro) from the human body.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "core damage frequency",
+    "nrc_term": "Core damage frequency",
+    "similarity": 0.662,
+    "cnsc_def": "An expression of the likelihood that an accident could cause core damage.",
+    "nrc_def": "An expression of the likelihood that, given the way a reactor is designed and operated, an accident could cause the fuel in the reactor to be damaged.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "design-basis accident",
+    "nrc_term": "Design-basis accident",
+    "similarity": 0.6538,
+    "cnsc_def": "Accident conditions for which a nuclear facility is designed according to established design criteria and for which damage to the fuel and the release of radioactive material are kept within authorized limits. DBA is a plant state.",
+    "nrc_def": "A postulated accident that a nuclear facility must be designed and built to withstand without loss to the systems, structures, and components necessary to ensure public health and safety.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "single failure",
+    "nrc_term": "Single failure",
+    "similarity": 0.6466,
+    "cnsc_def": "A failure that results in the loss of capability of a component to perform its intended function(s), and any consequential failure(s) resulting from that single failure.",
+    "nrc_def": "A single failure means an occurrence which results in the loss of capability of a component to perform its intended safety functions. Multiple failures resulting from a single occurrence are considered to be a single failure. Fluid and electric systems are considered to be designed against an assumed single failure if neither. (1) a single failure of any active component (assuming passive components function properly) nor (2) a single failure of a passive component (assuming active components function properly), results in a loss of the capability of the system to perform its safety functions.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "decontamination",
+    "nrc_term": "Decontamination",
+    "similarity": 0.6447,
+    "cnsc_def": "The complete or partial removal of contamination by a deliberate physical, chemical or biological process.",
+    "nrc_def": "A process used to reduce, remove, or neutralize radiological or chemical contamination to reduce the risk of exposure. Decontamination may be accomplished by cleaning or treating surfaces to reduce or remove the contamination, filtering contaminated air or water, or subjecting contamination to evaporation and precipitation. The process can also simply allow adequate time for radioactive decay to decrease the radioactivity.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "containment structure",
+    "nrc_term": "Containment structure",
+    "similarity": 0.6404,
+    "cnsc_def": "For reactor facilities, a physical structure designed to prevent uncontrolled release and dispersion of nuclear substances.",
+    "nrc_def": "A gas-tight shell or other enclosure around a nuclear reactor to confine fission products that otherwise might be released to the atmosphere in the event of an accident. Such enclosures are usually dome-shaped and made of steel-reinforced concrete.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "leak before break",
+    "nrc_term": "Leak before break",
+    "similarity": 0.6385,
+    "cnsc_def": "Leakage from a flaw in a pressurized component (such as a pipe) during normal operation of a nuclear reactor, detected early enough for the reactor to be shut down and depressurized before the flaw grows large enough to cause a rupture.",
+    "nrc_def": "The concept that a leaking crack will be detected before it becomes unstable and leads to a rupture.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "nuclear power plant",
+    "nrc_term": "Nuclear power plant",
+    "similarity": 0.6207,
+    "cnsc_def": "A nuclear facility consisting of any fission-reactor installation that has been constructed to generate electricity on a commercial scale. (Source: Nuclear Security Regulations ) Note 1: An NPP may include more than one nuclear reactor. Note 2: An NPP may also be constructed with the intent to provide heat or steam on a commercial scale.",
+    "nrc_def": "A thermal power plant, in which the energy (heat) released by the fissioning of nuclear fuel is used to boil water to produce steam. The steam spins the propeller-like blades of a turbine that turns the shaft of a generator to produce electricity. Of the various nuclear power plant designs, pressurized- water reactors and boiling-water reactors are in commercial operation in the United States. These facilities generate about 20 percent of U.S. electrical power.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "SCO",
+    "nrc_term": "SCO",
+    "similarity": 0.6084,
+    "cnsc_def": "Has the meaning assigned by the definition \"surface contaminated object (SCO)\" in the IAEA Regulations. (Source: Packaging and Transport of Nuclear Substances Regulations, 2015 )",
+    "nrc_def": "surface contaminated object",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "radioactivity",
+    "nrc_term": "Radioactivity",
+    "similarity": 0.6037,
+    "cnsc_def": "The spontaneous transformation of an atom's nucleus by expulsion of particles. Radioactivity can be accompanied by electromagnetic radiation. Solids, liquids or gases can be radioactive.",
+    "nrc_def": "The property possessed by some elements (such as uranium ) of spontaneously emitting energy in the form of radiation as a result of the decay (or disintegration) of an unstable atom . Radioactivity is also the term used to describe the rate at which radioactive material emits radiation . Radioactivity is measured in curies (Ci) , becquerels (Bq) , or disintegrations per second.. For related information, see Measuring Radiation .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "activity",
+    "nrc_term": "Activity",
+    "similarity": 0.6015,
+    "cnsc_def": "The number of nuclear transformations occurring per unit of time, as measured in becquerels. (Source: Packaging and Transport of Nuclear Substances Regulations, 2015 ) OR See licensed activity . OR The condition of being active or moving about. OR A particular occupation or pursuit.",
+    "nrc_def": "The rate of disintegration (transformation) or decay of radioactive material per unit time. The units of activity (also known as radioactivity ) are the curie (Ci) and the becquerel (Bq) . For related information, see Measuring Radiation .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "nucleus",
+    "nrc_term": "Nucleus",
+    "similarity": 0.5946,
+    "cnsc_def": "The very dense region at the centre of an atom that consists of protons and neutrons.",
+    "nrc_def": "The small, central, positively charged region of an atom. Except for the nucleus of ordinary hydrogen, which has only a proton, all atomic nuclei contain both protons and neutrons. The number of protons determines the total positive charge or atomic number. This number is the same for all the atomic nuclei of a given chemical element. The total number of neutrons and protons is called the mass number.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "performance indicator",
+    "nrc_term": "Performance indicator",
+    "similarity": 0.5942,
+    "cnsc_def": "A quantifiable variable related to the actions of a proposed or licensed activity that may cause or indicate an adverse environmental effect if a certain threshold value is reached. Note: For reporting requirements for nuclear power plants, see safety performance indicator .",
+    "nrc_def": "A quantitative measure of a particular attribute of licensee performance that shows how well a plant is performing when measured against established thresholds. Licensees submit their data quarterly; the NRC regularly conducts inspections to verify the submittals and then uses its own inspection data plus the licensees' submittals to assess each plant's performance. For additional detail, see Assessment of Performance , What is a performance indicator? and Reactor Performance Assessment Basics .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "criticality",
+    "nrc_term": "Criticality",
+    "similarity": 0.5938,
+    "cnsc_def": "See nuclear criticality .",
+    "nrc_def": "The condition involving fission of nuclear materials when the number of neutrons produced equals or exceeds the nuclear containment. During normal reactor operations, nuclear fuel sustains a fission chain reaction or criticality. A reactor achieves criticality (and is said to be critical) when each fission event releases a sufficient number of neutrons to sustain an ongoing series of reactions.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "NDT",
+    "nrc_term": "NDT",
+    "similarity": 0.5897,
+    "cnsc_def": "non\u2011destructive testing; see also National Non\u2011Destructive Testing (NDT) Certification Body",
+    "nrc_def": "nondestructive test",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "controlled area",
+    "nrc_term": "Controlled area",
+    "similarity": 0.5883,
+    "cnsc_def": "See restricted area .",
+    "nrc_def": "At a nuclear facility, an area outside a restricted area but within the site boundary, to which the licensee can limit access for any reason.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "fuel rod",
+    "nrc_term": "Fuel rod",
+    "similarity": 0.5873,
+    "cnsc_def": "A long slender column of material containing fissile nuclides. The rod is normally encapsulated by metallic tubing.",
+    "nrc_def": "A long, slender, zirconium metal tube containing pellets of fissionable material , which provide fuel for nuclear reactors . Fuel rods are assembled into bundles called fuel assemblies , which are loaded individually into the reactor core .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "source term",
+    "nrc_term": "Source term",
+    "similarity": 0.5807,
+    "cnsc_def": "The amount and isotopic composition of material released (or postulated to be released) from a nuclear facility.",
+    "nrc_def": "Types and amounts of radioactive or hazardous material released to the environment following an accident.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "configuration management",
+    "nrc_term": "Configuration management",
+    "similarity": 0.5785,
+    "cnsc_def": "The process of identifying and documenting the characteristics of a facility's structures, systems and components (including computer systems and software), and of ensuring that changes to these characteristics are properly developed, assessed, approved, issued, implemented, verified, recorded and incorporated in the facility documentation.",
+    "nrc_def": "A discipline applying technical and administrative direction and surveillance to identify and document the functional and physical characteristics of a configuration item, control changes to those characteristics, record and report change processing and implementation status, and verify compliance with specified requirements.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "contamination",
+    "nrc_term": "Contamination",
+    "similarity": 0.5642,
+    "cnsc_def": "Has the same meaning as in the IAEA Regulations. (Source: Packaging and Transport of Nuclear Substances Regulations, 2015 ) Note: More generally, contamination refers to nuclear or hazardous substances on surfaces, or within solids, liquids or gases (including the human body), where their presence is unintended or undesirable, or to the process giving rise to their presence in such places.",
+    "nrc_def": "Undesirable radiological or chemical material (with a potentially harmful effect) that is either airborne or deposited in (or on the surface of) structures, objects, soil, water, or living organisms.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "fissile material",
+    "nrc_term": "Fissile material",
+    "similarity": 0.5624,
+    "cnsc_def": "Has the same meaning as in the IAEA Regulations. (Source: Packaging and Transport of Nuclear Substances Regulations, 2015 ) Note: This definition is restricted to packaging and transport of nuclear substances. OR A material that is capable of sustaining a thermal neutron chain reaction. Note: This definition does not apply to packaging and transport of nuclear substances. OR With respect to nuclear criticality safety, a material, other than natural uranium, that is capable of sustaining a thermal neutron chain reaction.",
+    "nrc_def": "A nuclide that is capable of undergoing fission after capturing low-energy thermal (slow) neutrons . Although sometimes used as a synonym for fissionable material , this term has acquired its more-restrictive interpretation with the limitation that the nuclide must be fissionable by thermal neutrons . With that interpretation, the three primary fissile materials are uranium-233, uranium-235, and plutonium-239. This definition excludes natural uranium and depleted uranium that have not been irradiated , or have only been irradiated in thermal reactors .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "reactivity",
+    "nrc_term": "Reactivity",
+    "similarity": 0.5619,
+    "cnsc_def": "The quantity (k eff \u2011 1) / k eff , where k eff is the effective neutron multiplication factor. The reactivity of a subcritical assembly is a negative quantity indicating the degree of subcriticality. The reactivity of a critical assembly is zero.",
+    "nrc_def": "A term expressing the departure of a reactor system from criticality. A positive reactivity addition indicates a move toward supercriticality (power increase). A negative reactivity addition indicates a move toward subcriticality (power decrease).",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "licensee",
+    "nrc_term": "Licensee",
+    "similarity": 0.5617,
+    "cnsc_def": "Note: In the regulations below, a person may be an individual or organization. A person who is licensed to carry on an activity described in any of paragraphs 26(a) to ( f ) of the Act. (Sources: General Nuclear Safety and Control Regulations ; Radiation Protection Regulations ) OR A person who is licensed to carry on an activity described in paragraph 26( e ) of the Act in relation to a Class I nuclear facility. (Source: Class I Nuclear Facilities Regulations ) OR A person who is licensed to carry on an activity described in any of paragraphs 26(a), ( c ) or ( e ) of the Act in relation to a Class II nuclear facility or Class II prescribed equipment. (Source: Class II Nuclear Facilities and Prescribed Equipment Regulations ) OR A person who is licensed to carry on an activity described in any of paragraphs 26(a) to ( c ) of the Act in relation to a nuclear substance or a radiation device. (Source: Nuclear Substances and Radiation Devices Regulations ) OR Means in this section and sections 2 to 7.2, a person who is licensed to carry on an activity described in any of paragraphs 26(a), (b), (e) or (f) of the Act in relation to Category I, II or III nuclear material or a nuclear power plant; in sections 7.3 to 38, a person who is licensed to carry on an activity described in any of paragraphs 26(a), (b), (e) or (f) of the Act in relation to a high-security site; and in Part 2, a person who is licensed to carry on an activity described in any of paragraphs 26(a), (b) or (e) of the Act in relation to a nuclear facility set out in column 2 of Schedule 2. (Source: Nuclear Security Regulations ) Note: In paragraph (a) above, \"in this section\" refers to section 1 of the Nuclear Security Regulations . OR A person who is licensed to carry on an activity described in paragraph 26( e ) of the Act in relation to a uranium mine or mill. (Source: Uranium Mines and Mills Regulations )",
+    "nrc_def": "A company, organization, institution, or other entity to which the NRC or an Agreement State has granted a general license or specific license to construct or operate a nuclear facility, or to receive, possess, use, transfer, or dispose of source material , byproduct material , or special nuclear material .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "yellowcake",
+    "nrc_term": "Yellowcake",
+    "similarity": 0.5568,
+    "cnsc_def": "See uranium concentrate .",
+    "nrc_def": "The solid form of mixed uranium oxide, which is produced from uranium ore in the uranium recovery (milling) process. The material is a mixture of uranium oxides, which can vary in proportion and color from yellow to orange to dark green (blackish) depending on the temperature at which the material is dried (which affects the level of hydration and impurities), with higher drying temperatures producing a darker and less soluble material. Yellowcake was commonly referred to as U 3 O 8 , because that chemical compound historically comprised the majority of the yellowcake produced by uranium recovery facilities utilizing conventional milling methods. Most modern uranium recovery facilities utilize in situ recovery methods and produce a yellowish compound comprised mostly of uranyl peroxide dihydrate. This material is then transported to a uranium conversion facility, where it is transformed into uranium hexafluoride (UF 6 ), in preparation for fabricating fuel for nuclear reactors .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "thermoluminescent dosimeter",
+    "nrc_term": "Thermoluminescent dosimeter",
+    "similarity": 0.5561,
+    "cnsc_def": "A type of dosimeter used to monitor exposure to radiation. A TLD measures ionizing radiation exposure by measuring the intensity of visible light emitted from a crystal in the detector when the crystal is heated. The intensity of light emitted is dependent on the radiation exposure.",
+    "nrc_def": "A small device used to measure radiation by measuring the amount of visible light emitted from a crystal in the detector when exposed to ionizing radiation.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "spent nuclear fuel",
+    "nrc_term": "Spent nuclear fuel",
+    "similarity": 0.554,
+    "cnsc_def": "See used nuclear fuel .",
+    "nrc_def": "Nuclear reactor fuel that has been used to the extent that it can no longer effectively sustain a chain reaction . For related information, see Storage of Spent Nuclear Fuel and Transportation of Spent Nuclear Fuel .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "heat sink",
+    "nrc_term": "Heat sink",
+    "similarity": 0.5412,
+    "cnsc_def": "A system or component that provides a path for heat transfer from a source, such as heat generated in the fuel, to a large heat-absorbing medium, such as water. See also ultimate heat sink .",
+    "nrc_def": "Anything that absorbs heat. It is usually part of the environment, such as the air, a river, or a lake.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "scattered radiation",
+    "nrc_term": "Scattered radiation",
+    "similarity": 0.5409,
+    "cnsc_def": "See scatter radiation .",
+    "nrc_def": "Radiation that, during its passage through a substance, has been changed in direction. It may also have been modified by a decrease in energy. It is one form of secondary radiation.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "severe accident",
+    "nrc_term": "Severe accident",
+    "similarity": 0.5308,
+    "cnsc_def": "An accident more severe than a design-basis accident and involving severe fuel degradation in the reactor core or irradiated fuel storage.",
+    "nrc_def": "A type of accident that may challenge safety systems at a level much higher than expected.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "regulation",
+    "nrc_term": "Regulation",
+    "similarity": 0.5072,
+    "cnsc_def": "The \"operational\" part of a law. In Canada, a regulation is made under a specified Act, the means by which Parliament makes laws. A regulation commonly deals with matters such as what is meant by certain terms used in the Act, procedures and processes that must be followed or standards that must be met in order to comply with the Act. Often referred to as delegated legislation or subordinate legislation, a regulation is not made by Parliament but by someone to whom Parliament has delegated the authority to make it. The Commission has the authority under the Nuclear Safety and Control Act (NSCA) to make regulations, with the approval of the Governor in Council, for matters related to its mandate.",
+    "nrc_def": "The governmental function of controlling or directing economic entities through the process of rulemaking and adjudication.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "uranium",
+    "nrc_term": "Uranium",
+    "similarity": 0.5051,
+    "cnsc_def": "See depleted uranium , enriched uranium or natural uranium .",
+    "nrc_def": "A radioactive element with the atomic number 92 and, as found in natural ores, an atomic weight of approximately 238. The two principal natural isotopes are uranium-235 (which comprises 0.7 percent of natural uranium ), which is fissile , and uranium-238 (99.3 percent of natural uranium), which is fissionable by fast neutrons and is fertile , meaning that it becomes fissile after absorbing one neutron . Natural uranium also includes a minute amount of uranium-234.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "nuclear energy",
+    "nrc_term": "Nuclear energy",
+    "similarity": 0.5008,
+    "cnsc_def": "Any form of energy released in the course of nuclear fission or nuclear fusion or of any other nuclear transmutation. (Source: Nuclear Safety and Control Act )",
+    "nrc_def": "See Atomic energy .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "exposure",
+    "nrc_term": "Exposure",
+    "similarity": 0.4955,
+    "cnsc_def": "See irradiation .",
+    "nrc_def": "Absorption of ionizing radiation or the amount of a hazardous substance that has been ingested, inhaled, or in contact with the skin. Acute exposure occurs over a short period of time. Chronic exposure is exposure received over a long period of time, such as during a lifetime. See Occupational dose .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "licensing basis",
+    "nrc_term": "Licensing basis",
+    "similarity": 0.4858,
+    "cnsc_def": "A set of requirements and documents for a regulated facility or activity comprising: the regulatory requirements set out in the applicable laws and regulations the conditions and safety and control measures described in the facility's or activity's licence and the documents directly referenced in that licence the safety and control measures described in the licence application and the documents needed to support that licence application",
+    "nrc_def": "The collection of documents or technical criteria that provides the basis upon which the NRC issues a license to construct or operate a nuclear facility; to conduct operations involving the emission of radiation; or to receive, possess, use, transfer, or dispose of source material , byproduct material , or special nuclear material . For related information, see Licensing .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "reactor coolant system",
+    "nrc_term": "Reactor coolant system",
+    "similarity": 0.4729,
+    "cnsc_def": "See primary heat transport system .",
+    "nrc_def": "The system used to remove energy from the reactor core and transfer that energy either directly or indirectly to the steam turbine.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "DBT",
+    "nrc_term": "DBT",
+    "similarity": 0.4638,
+    "cnsc_def": "See design-basis threat .",
+    "nrc_def": "design-basis tornado",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "probabilistic risk analysis",
+    "nrc_term": "Probabilistic risk analysis",
+    "similarity": 0.4408,
+    "cnsc_def": "See probabilistic safety assessment .",
+    "nrc_def": "A systematic method for addressing the risk triplet as it relates to the performance of a complex system to understand likely outcomes, sensitivities, areas of importance, system interactions, and areas of uncertainty. The risk triplet is the set of three questions that the NRC uses to define \"risk\": (1) What can go wrong? (2) How likely is it? and (3) What are the consequences? NRC identifies important scenarios from such an assessment.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "tritium",
+    "nrc_term": "Tritium",
+    "similarity": 0.4396,
+    "cnsc_def": "A radioisotope (symbol T or 3 H) of the element hydrogen, composed of one proton and two neutrons.",
+    "nrc_def": "A radioactive isotope of hydrogen. Because it is chemically identical to natural hydrogen, tritium can easily be taken into the body by any ingestion path. It decays by emitting beta particles and has a half-life of about 12.5 years. For related information, see the Fact Sheet on Tritium, Radiation Protection Limits, and Drinking Water Standards .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "AMP",
+    "nrc_term": "AMP",
+    "similarity": 0.4281,
+    "cnsc_def": "See administrative monetary penalty or aging management program / aging management plan . Note: The acronym AMP is now reserved for administrative monetary penalty.",
+    "nrc_def": "aging management program",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "DBE",
+    "nrc_term": "DBE",
+    "similarity": 0.4136,
+    "cnsc_def": "See design-basis earthquake .",
+    "nrc_def": "design-basis event",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "calibration",
+    "nrc_term": "Calibration",
+    "similarity": 0.4126,
+    "cnsc_def": "The process to verify that, with a known precision input, a model, instrument or channel parameter gives the required output.",
+    "nrc_def": "The adjustment, as necessary, of a measuring device such that it responds within the required range and accuracy to known values of input.",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "background radiation",
+    "nrc_term": "Background radiation",
+    "similarity": 0.3567,
+    "cnsc_def": "The dose or dose rate (or an observed measure related to the dose or dose rate) attributable to all sources other than the one specified.",
+    "nrc_def": "The natural radiation that is always present in the environment. It includes cosmic radiation which comes from the sun and stars, terrestrial radiation which comes from the Earth, and internal radiation which exists in all living things. The typical average individual exposure in the United States from natural background sources is about 300 millirems per year. For additional information, see Natural Background Sources and Doses in Our Daily Lives .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "uprate",
+    "nrc_term": "Uprate",
+    "similarity": 0.3412,
+    "cnsc_def": "The action of increasing a nuclear power plant's output capacity.",
+    "nrc_def": "See Power uprate .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ALARA",
+    "nrc_term": "ALARA",
+    "similarity": 0.2907,
+    "cnsc_def": "See as low as reasonably achievable .",
+    "nrc_def": "As defined in Title 10, Section 20.1003, of the Code of Federal Regulations ( 10 CFR 20.1003 ), ALARA is an acronym for \"as low as (is) reasonably achievable,\" which means making every reasonable effort to maintain exposures to ionizing radiation as far below the dose limits as practical, consistent with the purpose for which the licensed activity is undertaken, taking into account the state of technology, the economics of improvements in relation to state of technology, the economics of improvements in relation to benefits to the public health and safety, and other societal and socioeconomic considerations, and in relation to utilization of nuclear energy and licensed materials in the public interest. For additional detail, see Dose Limits for Radiation Workers .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "risk",
+    "nrc_term": "Risk",
+    "similarity": 0.2751,
+    "cnsc_def": "The chance of injury or loss, defined as a measure of the probability and severity of an adverse effect (consequence) to health, property, the environment or other things of value; mathematically, risk is the probability of occurrence (likelihood) of an event multiplied by its magnitude (severity).",
+    "nrc_def": "The combined answer to three questions that consider (1) what can go wrong, (2) how likely it is to occur, and (3) what the consequences might be. These three questions allow the NRC to understand likely outcomes, sensitivities, areas of importance, system interactions, and areas of uncertainty, which can be used to identify risk-significant scenarios. For additional detail, see Risk Assessment in Regulation and the Fact Sheet on Nuclear Reactor Risk .",
+    "is_same": true
+  },
+  {
+    "cnsc_term": "TI",
+    "nrc_term": "TI",
+    "similarity": 0.2656,
+    "cnsc_def": "See transport index .",
+    "nrc_def": "technical integrator",
+    "is_same": false
+  },
+  {
+    "cnsc_term": "fatigue",
+    "nrc_term": "Fatigue",
+    "similarity": 0.2348,
+    "cnsc_def": "A state of reduced mental or physical performance capability resulting from sleep loss, extended wakefulness, phase of the circadian rhythm or workload.",
+    "nrc_def": "A degradation mechanism caused by the simultaneous action of cyclic, tensile stress. Fatigue may culminate in crack initiation and growth that may cause fracture after enough cycles.",
+    "is_same": false
+  },
+  {
+    "cnsc_term": "SSC",
+    "nrc_term": "SSC",
+    "similarity": 0.2206,
+    "cnsc_def": "See structures, systems and components .",
+    "nrc_def": "seismic source characterization",
+    "is_same": false
+  },
+  {
+    "cnsc_term": "EA",
+    "nrc_term": "EA",
+    "similarity": 0.1993,
+    "cnsc_def": "See environmental assessment .",
+    "nrc_def": "enforcement action",
+    "is_same": false
+  },
+  {
+    "cnsc_term": "SA",
+    "nrc_term": "SA",
+    "similarity": 0.1986,
+    "cnsc_def": "satisfactory; see safety performance rating methodology",
+    "nrc_def": "security advisory (generic communications)",
+    "is_same": false
+  },
+  {
+    "cnsc_term": "MDC",
+    "nrc_term": "MDC",
+    "similarity": 0.1444,
+    "cnsc_def": "See material description code .",
+    "nrc_def": "minimum detectable contamination",
+    "is_same": false
+  },
+  {
+    "cnsc_term": "FAI",
+    "nrc_term": "FAI",
+    "similarity": 0.1334,
+    "cnsc_def": "Fukushima action item",
+    "nrc_def": "Federal Acquisition Institute",
+    "is_same": false
+  },
+  {
+    "cnsc_term": "EO",
+    "nrc_term": "EO",
+    "similarity": 0.1306,
+    "cnsc_def": "See enabling objective .",
+    "nrc_def": "executive order",
+    "is_same": false
+  },
+  {
+    "cnsc_term": "ISR",
+    "nrc_term": "ISR",
+    "similarity": 0.1157,
+    "cnsc_def": "integrated safety review; see periodic safety review",
+    "nrc_def": "in situ recovery",
+    "is_same": false
+  },
+  {
+    "cnsc_term": "Ci",
+    "nrc_term": "CI",
+    "similarity": 0.1016,
+    "cnsc_def": "curie; see becquerel",
+    "nrc_def": "confidence interval",
+    "is_same": false
+  },
+  {
+    "cnsc_term": "PDR",
+    "nrc_term": "PDR",
+    "similarity": 0.0437,
+    "cnsc_def": "pulsed dose rate",
+    "nrc_def": "Public Document Room (NRC)",
+    "is_same": false
+  },
+  {
+    "cnsc_term": "SCR",
+    "nrc_term": "SCR",
+    "similarity": 0.0371,
+    "cnsc_def": "See secondary control room .",
+    "nrc_def": "stable continental region",
+    "is_same": false
+  },
+  {
+    "cnsc_term": "SRS",
+    "nrc_term": "SRS",
+    "similarity": -0.0047,
+    "cnsc_def": "See safety-related systems .",
+    "nrc_def": "Savannah River Site",
+    "is_same": false
+  },
+  {
+    "cnsc_term": "SD",
+    "nrc_term": "SD",
+    "similarity": -0.0208,
+    "cnsc_def": "shutdown",
+    "nrc_def": "spectral displacement",
+    "is_same": false
+  },
+  {
+    "cnsc_term": "AM",
+    "nrc_term": "AM",
+    "similarity": -0.0319,
+    "cnsc_def": "See aging management .",
+    "nrc_def": "Atlantic Margin",
+    "is_same": false
+  }
+]

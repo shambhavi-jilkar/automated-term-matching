@@ -1,0 +1,686 @@
+[
+  {
+    "cnsc_term": "activity",
+    "nrc_term": "Activity",
+    "similarity": 0.6015,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ALARA",
+    "nrc_term": "ALARA",
+    "similarity": 0.2907,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ALI",
+    "nrc_term": "ALI",
+    "similarity": 0.8979,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "alpha particle",
+    "nrc_term": "Alpha particle",
+    "similarity": 0.9587,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "AMP",
+    "nrc_term": "AMP",
+    "similarity": 0.4281,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ANS",
+    "nrc_term": "ANS",
+    "similarity": 1.0,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ANSI",
+    "nrc_term": "ANSI",
+    "similarity": 0.7224,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "AOO",
+    "nrc_term": "AOO",
+    "similarity": 0.9004,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ASME",
+    "nrc_term": "ASME",
+    "similarity": 0.8164,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "atom",
+    "nrc_term": "Atom",
+    "similarity": 0.982,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "background radiation",
+    "nrc_term": "Background radiation",
+    "similarity": 0.3567,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "beta particle",
+    "nrc_term": "Beta particle",
+    "similarity": 0.8781,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "bioassay",
+    "nrc_term": "Bioassay",
+    "similarity": 0.662,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "BWR",
+    "nrc_term": "BWR",
+    "similarity": 0.8562,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "calibration",
+    "nrc_term": "Calibration",
+    "similarity": 0.4126,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "CCF",
+    "nrc_term": "CCF",
+    "similarity": 0.9012,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "CHF",
+    "nrc_term": "CHF",
+    "similarity": 1.0,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "configuration management",
+    "nrc_term": "Configuration management",
+    "similarity": 0.5785,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "containment structure",
+    "nrc_term": "Containment structure",
+    "similarity": 0.6404,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "contamination",
+    "nrc_term": "Contamination",
+    "similarity": 0.5642,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "controlled area",
+    "nrc_term": "Controlled area",
+    "similarity": 0.5883,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "core damage frequency",
+    "nrc_term": "Core damage frequency",
+    "similarity": 0.662,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "CRDM",
+    "nrc_term": "CRDM",
+    "similarity": 1.0,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "criticality",
+    "nrc_term": "Criticality",
+    "similarity": 0.5938,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "CSI",
+    "nrc_term": "CSI",
+    "similarity": 0.9533,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "DAC",
+    "nrc_term": "DAC",
+    "similarity": 0.8861,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "DBA",
+    "nrc_term": "DBA",
+    "similarity": 0.9255,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "DBE",
+    "nrc_term": "DBE",
+    "similarity": 0.4136,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "DBT",
+    "nrc_term": "DBT",
+    "similarity": 0.4638,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "DCF",
+    "nrc_term": "DCF",
+    "similarity": 0.9214,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "decommissioning",
+    "nrc_term": "Decommissioning",
+    "similarity": 0.7372,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "decontamination",
+    "nrc_term": "Decontamination",
+    "similarity": 0.6447,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "depleted uranium",
+    "nrc_term": "Depleted uranium",
+    "similarity": 0.8339,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "design-basis accident",
+    "nrc_term": "Design-basis accident",
+    "similarity": 0.6538,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "deterministic effect",
+    "nrc_term": "Deterministic effect",
+    "similarity": 0.6651,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "dosimeter",
+    "nrc_term": "Dosimeter",
+    "similarity": 0.7921,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ECCS",
+    "nrc_term": "ECCS",
+    "similarity": 0.8837,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "EIS",
+    "nrc_term": "EIS",
+    "similarity": 0.8994,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "EQ",
+    "nrc_term": "EQ",
+    "similarity": 1.0,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ERO",
+    "nrc_term": "ERO",
+    "similarity": 0.8403,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "exposure",
+    "nrc_term": "Exposure",
+    "similarity": 0.4955,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "extremities",
+    "nrc_term": "Extremities",
+    "similarity": 0.7117,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "fertile material",
+    "nrc_term": "Fertile material",
+    "similarity": 0.89,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "fissile material",
+    "nrc_term": "Fissile material",
+    "similarity": 0.5624,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "fissionable material",
+    "nrc_term": "Fissionable material",
+    "similarity": 0.6782,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "fuel rod",
+    "nrc_term": "Fuel rod",
+    "similarity": 0.5873,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "FY",
+    "nrc_term": "FY",
+    "similarity": 0.8495,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "gamma radiation",
+    "nrc_term": "Gamma radiation",
+    "similarity": 0.7352,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "HAC",
+    "nrc_term": "HAC",
+    "similarity": 1.0,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "heat sink",
+    "nrc_term": "Heat sink",
+    "similarity": 0.5412,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "HEU",
+    "nrc_term": "HEU",
+    "similarity": 0.9037,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "IAEA",
+    "nrc_term": "IAEA",
+    "similarity": 0.9021,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "I&C",
+    "nrc_term": "I&C",
+    "similarity": 0.9616,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ICRP",
+    "nrc_term": "ICRP",
+    "similarity": 0.9463,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ICRU",
+    "nrc_term": "ICRU",
+    "similarity": 1.0,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "INES",
+    "nrc_term": "INES",
+    "similarity": 0.8334,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "ionizing radiation",
+    "nrc_term": "Ionizing radiation",
+    "similarity": 0.7,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "IPPAS",
+    "nrc_term": "IPPAS",
+    "similarity": 1.0,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "irradiation",
+    "nrc_term": "Irradiation",
+    "similarity": 0.7625,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "IRRS",
+    "nrc_term": "IRRS",
+    "similarity": 1.0,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "isotope",
+    "nrc_term": "Isotope",
+    "similarity": 0.7179,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "leak before break",
+    "nrc_term": "Leak before break",
+    "similarity": 0.6385,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "LEU",
+    "nrc_term": "LEU",
+    "similarity": 0.908,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "licensee",
+    "nrc_term": "Licensee",
+    "similarity": 0.5617,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "licensing basis",
+    "nrc_term": "Licensing basis",
+    "similarity": 0.4858,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "LLW",
+    "nrc_term": "LLW",
+    "similarity": 0.9021,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "LOCA",
+    "nrc_term": "LOCA",
+    "similarity": 0.8968,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "LWR",
+    "nrc_term": "LWR",
+    "similarity": 0.995,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "moderator",
+    "nrc_term": "Moderator",
+    "similarity": 0.6915,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "MSDS",
+    "nrc_term": "MSDS",
+    "similarity": 0.8785,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "natural uranium",
+    "nrc_term": "Natural uranium",
+    "similarity": 0.8584,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "NDT",
+    "nrc_term": "NDT",
+    "similarity": 0.5897,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "neutron",
+    "nrc_term": "Neutron",
+    "similarity": 0.6738,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "NPP",
+    "nrc_term": "NPP",
+    "similarity": 0.857,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "NRC",
+    "nrc_term": "NRC",
+    "similarity": 0.8333,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "nuclear energy",
+    "nrc_term": "Nuclear energy",
+    "similarity": 0.5008,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "nuclear power plant",
+    "nrc_term": "Nuclear power plant",
+    "similarity": 0.6207,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "nucleus",
+    "nrc_term": "Nucleus",
+    "similarity": 0.5946,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "operational mode",
+    "nrc_term": "Operational mode",
+    "similarity": 0.7686,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "performance indicator",
+    "nrc_term": "Performance indicator",
+    "similarity": 0.5942,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "PPE",
+    "nrc_term": "PPE",
+    "similarity": 1.0,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "PRA",
+    "nrc_term": "PRA",
+    "similarity": 0.844,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "probabilistic risk analysis",
+    "nrc_term": "Probabilistic risk analysis",
+    "similarity": 0.4408,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "proton",
+    "nrc_term": "Proton",
+    "similarity": 0.7889,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "PWR",
+    "nrc_term": "PWR",
+    "similarity": 0.9919,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "radioactive decay",
+    "nrc_term": "Radioactive decay",
+    "similarity": 0.8269,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "radioactivity",
+    "nrc_term": "Radioactivity",
+    "similarity": 0.6037,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "radionuclide",
+    "nrc_term": "Radionuclide",
+    "similarity": 0.7863,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "radiosensitivity",
+    "nrc_term": "Radiosensitivity",
+    "similarity": 0.7977,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "reactivity",
+    "nrc_term": "Reactivity",
+    "similarity": 0.5619,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "reactor coolant system",
+    "nrc_term": "Reactor coolant system",
+    "similarity": 0.4729,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "regulation",
+    "nrc_term": "Regulation",
+    "similarity": 0.5072,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "restricted area",
+    "nrc_term": "Restricted area",
+    "similarity": 0.8652,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "risk",
+    "nrc_term": "Risk",
+    "similarity": 0.2751,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "RSO",
+    "nrc_term": "RSO",
+    "similarity": 0.7712,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "safeguards",
+    "nrc_term": "Safeguards",
+    "similarity": 0.7447,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "scattered radiation",
+    "nrc_term": "Scattered radiation",
+    "similarity": 0.5409,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "SCO",
+    "nrc_term": "SCO",
+    "similarity": 0.6084,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "sealed source",
+    "nrc_term": "Sealed source",
+    "similarity": 0.7717,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "severe accident",
+    "nrc_term": "Severe accident",
+    "similarity": 0.5308,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "SI",
+    "nrc_term": "SI",
+    "similarity": 0.9639,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "single failure",
+    "nrc_term": "Single failure",
+    "similarity": 0.6466,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "SNF",
+    "nrc_term": "SNF",
+    "similarity": 0.9028,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "source material",
+    "nrc_term": "Source material",
+    "similarity": 0.7083,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "source term",
+    "nrc_term": "Source term",
+    "similarity": 0.5807,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "spent nuclear fuel",
+    "nrc_term": "Spent nuclear fuel",
+    "similarity": 0.554,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "steam generator",
+    "nrc_term": "Steam generator",
+    "similarity": 0.7357,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "thermoluminescent dosimeter",
+    "nrc_term": "Thermoluminescent dosimeter",
+    "similarity": 0.5561,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "TLD",
+    "nrc_term": "TLD",
+    "similarity": 0.9189,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "transuranic element",
+    "nrc_term": "Transuranic element",
+    "similarity": 0.6941,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "tritium",
+    "nrc_term": "Tritium",
+    "similarity": 0.4396,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "uprate",
+    "nrc_term": "Uprate",
+    "similarity": 0.3412,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "uranium",
+    "nrc_term": "Uranium",
+    "similarity": 0.5051,
+    "is_same": true
+  },
+  {
+    "cnsc_term": "yellowcake",
+    "nrc_term": "Yellowcake",
+    "similarity": 0.5568,
+    "is_same": true
+  }
+]
